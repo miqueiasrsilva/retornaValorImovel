@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj": {}
+    "c:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj": {}
   },
   "projects": {
-    "C:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj": {
+    "c:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj",
+        "projectUniqueName": "c:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj",
         "projectName": "retornaValorImovel",
-        "projectPath": "C:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj",
+        "projectPath": "c:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\retornaValorImovel.csproj",
         "packagesPath": "C:\\Users\\miike\\.nuget\\packages\\",
-        "outputPath": "C:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\obj\\",
+        "outputPath": "c:\\projects\\retornaValorImovel\\retornaValorImovel.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
