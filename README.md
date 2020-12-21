@@ -33,6 +33,6 @@ O projeto foi desenvolvido utilizando:
 
 Utilizada arquitetura MVC (Model-View-Controller), onde:
 
-Models: Camada que contem todas as entidades do projeto.
-Controllers: Camada que contem os Controllers do projeto, responsáveis por lidar com entradas de solicitações HTTP e enviar a resposta de volta ao requisitante.
-Views: não se aplica a este projeto.
+- Models: Camada que contem todas as entidades do projeto.
+- Controllers: Camada que contem os Controllers do projeto, responsáveis por lidar com entradas de solicitações HTTP e enviar a resposta de volta ao requisitante.
+- Views: não se aplica a este projeto.
