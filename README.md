@@ -13,7 +13,7 @@ https://retorna-valor-imovel.herokuapp.com/swagger/index.html
 
 Exemplo de utilização no PostMan:
 1. Header: https://prnt.sc/w78wc9
-2. body: https://prnt.sc/w78vlt
+2. Body: https://prnt.sc/w78vlt
 
 Regras de validação:
 O parâmetro de entrada "qtdeM2" (quantidade de metros quadrados) é obrigatório e deve estar entre 10 e 10.000.
@@ -22,7 +22,7 @@ O parâmetro de entrada "qtdeM2" (quantidade de metros quadrados) é obrigatóri
 
 O projeto foi desenvolvido utilizando:
 
-- ASP.NET Core MVC: Framework Open Source da Microsoft para o desenvolvimento de aplicações.
+- ASP.NET Core: Framework Open Source da Microsoft para o desenvolvimento de aplicações.
 - Git e GitHub: utilizados para versionamento e hospedagem do código-fonte.
 - Swagger: Documentação técnica da API.
 - Heroku: Plataforma em nuvem onde o serviço foi hospedado.
