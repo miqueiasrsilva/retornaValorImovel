@@ -1,6 +1,6 @@
 # retornaValorImovel v1.0
 
-Projeto de uma Web API desenvolvida em .Net Core na estrutura MVC que recebe a quantidade de metros quadrados e retorna o valor do imóvel em reais (R$).
+Projeto de uma Web API desenvolvida em .Net Core, utilizando a linguagem C#, na arquitetura MVC, que recebe a quantidade de metros quadrados e retorna o valor do imóvel em reais (R$).
 
 Docker Hub:
 https://hub.docker.com/repository/docker/miqueiasrsilva/retornavalorimovel
