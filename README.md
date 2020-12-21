@@ -1,4 +1,4 @@
-# retornaValorImovel V1.0
+# retornaValorImovel v1.0
 
 Projeto de uma Web API desenvolvida em .Net Core na estrutura MVC que recebe a quantidade de metros quadrados e retorna o valor do imóvel em reais (R$).
 
@@ -12,5 +12,5 @@ Documentação Swagger:
 https://retorna-valor-imovel.herokuapp.com/swagger/index.html
 
 Exemplo de utilização no PostMan:
-https://prnt.sc/w78wc9
-https://prnt.sc/w78vlt
+1. Header: https://prnt.sc/w78wc9
+2. body: https://prnt.sc/w78vlt
