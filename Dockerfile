@@ -2,11 +2,11 @@ FROM mcr.microsoft.com/dotnet/core/sdk:3.0 AS build-env
 WORKDIR /app
 
 # Copy csproj and restore as distinct layers
-COPY *.csproj ./
+COPY retornaValorImovel.Api/*.csproj ./
 RUN dotnet restore
 
 # Copy everything else and build
-COPY . ./
+COPY retornaValorImovel.Api/. ./
 RUN dotnet publish --framework netcoreapp3 --configuration Release --output out
 
 # Build runtime image
